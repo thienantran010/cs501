@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="intro">Hi, my name is\u0020</string>
+    <string name="myName">Thienan Tran</string>
+</resources>
